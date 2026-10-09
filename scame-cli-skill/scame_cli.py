@@ -201,7 +201,7 @@ def cmd_quote(args):
             "小计": subtotal,
             "可用库存": st.get("available_quantity", 0),
         })
-    result = {"lines": lines, "合计面价": round(total, 2), "说明": "面价合计,未含折扣;折扣口径以韶聪审批为准"}
+    result = {"lines": lines, "合计面价": round(total, 2), "说明": "面价合计,未含折扣;折扣口径以商务审批为准"}
     if args.json:
         emit(result, True)
     else:
