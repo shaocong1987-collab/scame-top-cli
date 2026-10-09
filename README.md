@@ -52,10 +52,14 @@ ln -s "/path/to/2026_SCAME_面价表_包含选型型号.csv" data/price_list.csv
 
 <div align="center">
 
-**北京韶聪泽明智能科技有限责任公司 · Zecrew**
+**韶聪泽明 · 班底 Zecrew**
 
-垂直行业 AI 数字员工
+北京韶聪泽明智能科技有限责任公司
 
-🌐 [zecrew.com](https://zecrew.com)
+企业数字员工 · 企业 AI 落地服务 · FDE
+
+WaytoAGI 模数OPC 社区
+
+官网 [zecrew.shaocongzeming.com](https://zecrew.shaocongzeming.com) · 邮箱 [sunshaocong@shaocongzeming.com](mailto:sunshaocong@shaocongzeming.com)
 
 </div>
